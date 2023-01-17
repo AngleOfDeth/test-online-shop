@@ -1,0 +1,15 @@
+.menu {
+
+}
+.menu__list {
+    display:flex;
+}
+.menu__item {
+    padding:1rem;
+    list-style-type: none;
+    cursor: pointer;
+}
+.menu__link {
+    text-decoration: none;
+    color: #000;
+}

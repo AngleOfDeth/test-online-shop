@@ -1,0 +1,12 @@
+.header {
+  max-width: 100%;
+  box-shadow:  0 0 5px lightgray;
+}
+.header__box {
+    width: 90%;
+    margin: 0 auto;
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+
+}

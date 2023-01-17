@@ -1,0 +1,18 @@
+@font-face {
+    font-family: yekan-bakh-medium;
+    src: url(../src/assets/fonts/yekan-bakh-medium.ttf);
+    src: url(../src/assets/fonts/yekan-bakh-medium.woff);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    direction: rtl;
+    font-family:yekan-bakh-medium;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
